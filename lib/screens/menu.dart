@@ -11,6 +11,7 @@ class MyHomePage extends StatelessWidget {
     ItemHomepage("See Football News", Icons.newspaper),
     ItemHomepage("Add News", Icons.add),
     ItemHomepage("Logout", Icons.logout),
+    ItemHomepage("Cek", Icons.newspaper),
     ];
     @override
     Widget build(BuildContext context) {
